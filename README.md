@@ -6,3 +6,7 @@ https://developer.chrome.com/docs/extensions/
 
 https://www.npmjs.com/package/chrome-types
 
+## Hello Extensions
+
+https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
+
