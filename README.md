@@ -13,3 +13,9 @@ https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 ## reading-time
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-reading-time/
+
+## focus-mode
+
+https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-focus-mode/#overview
+
+
