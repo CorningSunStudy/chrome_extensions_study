@@ -10,3 +10,6 @@ https://www.npmjs.com/package/chrome-types
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 
+## reading-time
+
+https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-reading-time/
