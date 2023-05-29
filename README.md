@@ -18,4 +18,7 @@ https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-reading-time/
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-focus-mode/#overview
 
+## Manage tabs
+
+https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-manager/
 
