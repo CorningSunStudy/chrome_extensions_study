@@ -22,3 +22,7 @@ https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-focus-mode/#over
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-manager/
 
+## quick-api-reference
+
+https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-quick-reference/
+
